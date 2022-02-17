@@ -1,4 +1,3 @@
-Shivam Chauhan21:57
 <h1 align="center">Hi 👋, I'm Kirti Jha</h1>
 <h3 align="center">I am a passionate Data Scientist enthusiast!!</h3>
 
